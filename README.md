@@ -1,5 +1,5 @@
 
-<img width="200" src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage4" align="left"/> <img align src="https://komarev.com/ghpvc/?username=taphy&color=B8B07F&style=social&label=top%20things%20you%20didn't%20know%20about%20the%20moon" align="right">
+<img width="200" src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage4" align="left"/> <img align src="https://komarev.com/ghpvc/?username=taphy&color=B8B07F&style=social&label=top%20things%20you%20didn't%20know%20about%20the%20moon" align="right">  [🐇](https://github.com/laffytaphy)
 
 <img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage11" width="275" align="right">
 
@@ -19,6 +19,3 @@
 
 <p align="center">
  <kbd><br>Peace and tranquility (deception? through line of mystery)<br>&nbsp;  </kbd>
-
-<p align="left">
- <kbd><br>AGENT: @laffytaphy<br>&nbsp;  </kbd>
