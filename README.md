@@ -10,7 +10,8 @@
 
 <kbd><br>Passing of time (moon cycle, 24 hours)<br>&nbsp;  </kbd>
 
-<kbd><br>Enlightenment, illumination (metaphor, literal)<br>&nbsp;  </kbd>
+<p align="right">
+ <kbd><br>Enlightenment, illumination (metaphor, literal)<br>&nbsp;  </kbd>
 
 <img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage3" width="200" align="center"> <kbd><br>Subconscious mind<br>&nbsp;  </kbd>
  
