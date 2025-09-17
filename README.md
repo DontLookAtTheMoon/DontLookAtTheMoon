@@ -6,15 +6,15 @@
 
 <img src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" width="275" align="right">
 
-<img src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" width="350" align="left">
+<img src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" width="325" align="left">
 
 <kbd><br>Passing of time (moon cycle, 24 hours)<br>&nbsp;  </kbd>
 
 <kbd><br>Enlightenment, illumination (metaphor, literal)<br>&nbsp;  </kbd>
 
-<img src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" width="200" align="left">
-
 <kbd><br>Subconscious mind<br>&nbsp;  </kbd>
+
+<img src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" width="200" align="left">
 
 <kbd><br>Impossibility, overcoming impossiblity (man on the moon)<br>&nbsp;  </kbd>
 
