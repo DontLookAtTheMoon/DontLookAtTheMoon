@@ -6,7 +6,7 @@
 <p align="center">
  <kbd><br>MOON SYMBOLISM:<br>&nbsp;  </kbd>
 
-<img src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" width="325" align="left">
+<img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage2" width="325" align="left">
 
 <kbd><br>Passing of time (moon cycle, 24 hours)<br>&nbsp;  </kbd>
 
