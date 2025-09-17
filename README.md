@@ -6,16 +6,15 @@
 <p align="center">
  <kbd><br>MOON SYMBOLISM:<br>&nbsp;  </kbd>
 
-<img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage22" width="325" align="left">
+<img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage22" width="350" align="left">
 
 <kbd><br>Passing of time (moon cycle, 24 hours)<br>&nbsp;  </kbd>
 
-<img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage3" width="200" align="center"> <kbd><br>Enlightenment, illumination (metaphor, literal)<br>&nbsp;  </kbd>
+<kbd><br>Enlightenment, illumination (metaphor, literal)<br>&nbsp;  </kbd>
 
-<p align="right">
-<kbd><br>Subconscious mind<br>&nbsp;  </kbd>
+<img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage3" width="200" align="center"> <kbd><br>Subconscious mind<br>&nbsp;  </kbd>
  
 <kbd><br>Impossibility, overcoming impossiblity (man on the moon)<br>&nbsp;  </kbd>
 
-<p align="left">
+<p align="center">
  <kbd><br>Peace and tranquility (deception? through line of mystery)<br>&nbsp;  </kbd>
