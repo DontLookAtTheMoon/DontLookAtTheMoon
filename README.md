@@ -3,7 +3,8 @@
 
 <img src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" width="275" align="right">
 
-<kbd><br>MOON SYMBOLISM:<br>&nbsp;  </kbd>
+<p align="center">
+ <kbd><br>MOON SYMBOLISM:<br>&nbsp;  </kbd>
 
 <img src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" width="325" align="left">
 
