@@ -15,7 +15,7 @@
 
 <img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage3" width="200" align="center">
 
-<p align="right">
+<p align="center">
  <kbd><br>Subconscious mind<br>&nbsp;  </kbd>
 
 <kbd><br>Impossibility, overcoming impossiblity (man on the moon)<br>&nbsp;  </kbd>
