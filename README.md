@@ -17,4 +17,4 @@
 <kbd><br>Impossibility, overcoming impossiblity (man on the moon)<br>&nbsp;  </kbd>
 
 <p align="center">
- <kbd><br>Peace and tranquility (deception? through line of mystery<br>&nbsp;  </kbd>
+ <kbd><br>Peace and tranquility (deception? through line of mystery)<br>&nbsp;  </kbd>
