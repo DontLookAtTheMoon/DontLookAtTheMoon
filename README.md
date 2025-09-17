@@ -12,9 +12,10 @@
 
 <img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage3" width="200" align="center"> <kbd><br>Enlightenment, illumination (metaphor, literal)<br>&nbsp;  </kbd>
 
+<p align="right">
 <kbd><br>Subconscious mind<br>&nbsp;  </kbd>
  
 <kbd><br>Impossibility, overcoming impossiblity (man on the moon)<br>&nbsp;  </kbd>
 
-<p align="center">
+<p align="left">
  <kbd><br>Peace and tranquility (deception? through line of mystery)<br>&nbsp;  </kbd>
