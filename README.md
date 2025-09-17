@@ -13,7 +13,7 @@
 
 <kbd><br>Subconscious mind<br>&nbsp;  </kbd>
 
-<img src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" width="200" align="right">
+<img src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" width="200" align="center">
 
 <kbd><br>Impossibility, overcoming impossiblity (man on the moon)<br>&nbsp;  </kbd>
 
