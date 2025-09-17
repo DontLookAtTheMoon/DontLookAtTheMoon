@@ -1,6 +1,6 @@
+<img align src="https://komarev.com/ghpvc/?username=taphy&color=blue&style=social&label=top%20things%20you%20didn't%20know%20about%20the%20moon" align="right">
 
-
-<img width="200" src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" align="left"/> <img align src="https://komarev.com/ghpvc/?username=taphy&color=blue&style=social&label=top%20things%20you%20didn't%20know%20about%20the%20moon" align="right">
+<img width="200" src="https://file.garden/aKx61rVxdUrS2u9V/placeholer" align="left"/>
 
 <kbd><br>MOON SYMBOLISM:<br>&nbsp;  </kbd>
 
