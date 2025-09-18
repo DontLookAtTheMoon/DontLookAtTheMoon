@@ -13,7 +13,7 @@
 <p align="right">
  <kbd><br>Enlightenment, illumination (metaphor, literal)<br>&nbsp;  </kbd>
 
-<img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage3" width="200" align="center">
+<img src="https://file.garden/aKx61rVxdUrS2u9V/dlatmpage3" width="200" align="left">
 
 <p align="center">
  <kbd><br>Subconscious mind<br>&nbsp;  </kbd>
